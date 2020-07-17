@@ -9,22 +9,22 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        Welcome to <a href="https://nextjs.org">Next.js!</a>
+        Welcome the 14400 redeemed of the Earth <a href="https://handshake.org">The Lightworkers!</a>
       </h1>
 
       <p className="description">
-        Get started by editing <code>pages/index.js</code>
+        The Light Within <code>pages/index.js</code>
       </p>
 
       <div className="grid">
         <a href="https://nextjs.org/docs" className="card">
           <h3>Documentation &rarr;</h3>
-          <p>Find in-depth information about Next.js features and API.</p>
+          <p>Follow your PEACE.</p>
         </a>
 
         <a href="https://nextjs.org/learn" className="card">
           <h3>Learn &rarr;</h3>
-          <p>Learn about Next.js in an interactive course with quizzes!</p>
+          <p>Listen to Intuition!</p>
         </a>
 
         <a
@@ -53,7 +53,7 @@ const Home = () => (
         target="_blank"
         rel="noopener noreferrer"
       >
-        Powered by <img src="/vercel.svg" alt="Vercel Logo" />
+        Powered by <img src="C:\Users\myspi\OneDrive\Pictures" alt="defend the sacred.jpg" />
       </a>
     </footer>
 
