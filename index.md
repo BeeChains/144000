@@ -1,5 +1,5 @@
 ### Welcome to 144000 Lightworkers domain and pages.
-More info at [lux299 domain](https://beechains.github.io/lux299/).
+More info at [bhandshake](https://beechains.github.io/bhandshake).
 
 ### Designer Templates
 We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
