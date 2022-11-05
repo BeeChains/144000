@@ -3,13 +3,13 @@ import Head from 'next/head'
 const Home = () => (
   <div className="container">
     <Head>
-      <title>Create Next App</title>
+      <title>144000</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
 
     <main>
       <h1 className="title">
-        Welcome the 14400 redeemed of the Earth <a href="https://handshake.org">The Lightworkers!</a>
+        Welcome the 144000 redeemed of the Earth <a href="https://handshake.org">The Lightworkers!</a>
       </h1>
 
       <p className="description">
@@ -19,7 +19,7 @@ const Home = () => (
       <div className="grid">
         <a href="https://nextjs.org/docs" className="card">
           <h3>Documentation &rarr;</h3>
-          <p>Follow your PEACE.</p>
+          <p>Follow Inner PEACE.</p>
         </a>
 
         <a href="https://nextjs.org/learn" className="card">
